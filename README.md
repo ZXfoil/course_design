@@ -1,19 +1,20 @@
 # springboot-vue-demo
 
-## Project setup
-```
-npm install
-```
+### 前端基于vue2, element-ui
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 后端基于springboot
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 项目结构
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Register
+- Login
+  - PersonView
+  - UserView
+  - BookView
+  - NewsView
+
+### API
+
+- Register: 注册接口
+- Login： 登录接口
+- upload: 文件上传接口
